@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ant-btn-primary {
+background-color: black !important;
+border: none !important;
+}
+
+.ant-btn:hover {
+  transform: scale(1.02) !important;
+}
+
+.ant-dropdown {
+  border-radius: 7px !important;
+}
+
+.ant-dropdown-menu {
+  border-radius: 7px !important;
+}
+
+.ant-dropdown-menu-item,
+.ant-dropdown-menu-submenu-title {
+  height: 42px;
+  gap: 5px;
+  color: rgb(0, 0, 0) !important;
+  font-size: 15px !important;
+  font-weight: 500 !important;
+}
+
+.ant-modal {
+  display: flex;
+  width: 70vw;
+  justify-content: center;
+  align-items: center;
+}
